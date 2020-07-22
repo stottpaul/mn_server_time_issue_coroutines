@@ -1,8 +1,3 @@
-## Feature http-client documentation
+Please clone and run ./gradlew test
 
-- [Micronaut Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
-
-## Feature management documentation
-
-- [Micronaut Micronaut Management documentation](https://docs.micronaut.io/latest/guide/index.html#management)
-
+You will see one failing test and one successfull test.   The failing one is for coroutines in kotlin.
