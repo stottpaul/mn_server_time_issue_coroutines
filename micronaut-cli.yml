@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: latency_misreporting_example
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [app-name, docker, file-watch, file-watch-osx, gradle, http-client, junit, kotlin, kotlin-application, logback, management, micrometer, micrometer-prometheus, netty-server, readme, shade, yaml]

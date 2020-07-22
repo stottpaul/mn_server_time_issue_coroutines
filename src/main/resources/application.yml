@@ -1,0 +1,10 @@
+micronaut:
+  application:
+    name: latency_misreporting_example
+  metrics:
+    export:
+      prometheus:
+        enabled: true
+        descriptions: true
+        step: PT1M
+    enabled: true
